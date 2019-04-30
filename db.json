@@ -230,5 +230,47 @@
       "bs": "target end-to-end models"
     }
   }
-]
+],
+  "Prenotazioni" : [
+    {
+      "id": 1,
+      "nome" : "Mario",
+      "cognome" : "Rossi",
+      "indirizzo" : "Via Verdi 10",
+      "telefono" : "3336985014",
+      "email" : "mario.rossi@mail.com",
+      "data" : "2019-05-15",
+      "ora" : "13:28:06"
+    },
+    {
+      "id": 2,
+      "nome" : "Marco",
+      "cognome" : "Verdi",
+      "indirizzo" : "Via Rossi 01",
+      "telefono" : "33369184014",
+      "email" : "mario.rossi@mail.com",
+      "data" : "2019-04-30",
+      "ora" : "13:21:06"
+    },
+    {
+      "id": 3,
+      "nome" : "Federico",
+      "cognome" : "Pippolino",
+      "indirizzo" : "Via Fir 25",
+      "telefono" : "3334876014",
+      "email" : "mario.rossi@mail.com",
+      "data" : "2019-05-11",
+      "ora" : "13:20:06"
+    },
+    {
+      "id": 4,
+      "nome" : "Francesco",
+      "cognome" : "Bianchi",
+      "indirizzo" : "Via Giallo 5",
+      "telefono" : "3398185014",
+      "email" : "mario.rossi@mail.com",
+      "data" : "2019-05-25",
+      "ora" : "13:09:06"
+    }
+  ]
 }
